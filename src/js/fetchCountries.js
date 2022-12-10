@@ -1,4 +1,3 @@
-
 // https://restcountries.com/v3.1/name/{name}
 
 // function fetchCountries(name)-робить HTTP-запит на ресурс name і 
